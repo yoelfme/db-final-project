@@ -1,0 +1,17 @@
+{
+  "name": "final-project",
+  "version": "1.0.0",
+  "description": "A small project build with faker and knex",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yoel Monzon",
+  "license": "MIT",
+  "dependencies": {
+    "knex": "^2.0.0",
+    "oracledb": "^5.3.0",
+    "sqlite3": "^5.0.6",
+    "@faker-js/faker": "^6.2.0"
+  }
+}

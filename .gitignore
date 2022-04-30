@@ -1,0 +1,11 @@
+lib*
+BASIC*
+adrci
+genezi
+ojdbc8.jar
+ucp.jar
+uidrvci
+xstreams.jar
+instantclient_19_8/*
+node_modules/
+network/
